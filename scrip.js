@@ -12,7 +12,7 @@ const lista = document.getElementById("lista");
 const mensajeVacio = document.getElementById("vacio");
 const contador = document.getElementById("contador");
 
-
+// ---------- Agregar contacto ----------
 function agregarContacto() {
   const nombre = inputNombre.value.trim();
   const telefono = inputTelefono.value.trim();
