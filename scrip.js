@@ -3,7 +3,7 @@
 let contactos = [];
 let siguienteId = 1;
 
-
+// ---------- Elementos del DOM ----------
 const inputNombre = document.getElementById("nombre");
 const inputTelefono = document.getElementById("telefono");
 const btnAgregar = document.getElementById("btn-agregar");
