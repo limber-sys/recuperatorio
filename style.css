@@ -122,7 +122,7 @@ button {
   transition: background 0.2s;
 }
 
-.btn-eliminar:hover { background: #fbeceb; }
+.btn-eliminar:hover { background: #ecdedd; }
 
 /* ---------- Mensaje vacío y pie ---------- */
 .vacio {
