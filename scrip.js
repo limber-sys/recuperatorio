@@ -1,4 +1,5 @@
-
+// ---------- Datos ----------
+// Estructura de datos: arreglo de objetos { id, nombre, telefono }
 let contactos = [];
 let siguienteId = 1;
 
